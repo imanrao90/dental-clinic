@@ -1,4 +1,5 @@
-import servicesData from './data/servicesData';
+import servicesData from "./data/services";
+
 
 export default function sitemap() {
   const baseUrl = "https://dental-clinic-ir.vercel.app";
