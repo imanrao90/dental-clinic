@@ -176,3 +176,38 @@ export const paymentOptionsFaqs = [
       { q: "Do Strip Crowns look natural?", a: "Absolutely! Strip Crowns are made from composite resin that matches the natural color of your child’s teeth, creating a beautiful and seamless appearance." },
       { q: "How long do Halls and Strip Crowns last?", a: "Both Halls and Strip Crowns are designed to last until the baby tooth naturally falls out, ensuring your child’s oral health remains protected." }
     ]
+
+    export const sedationFaqs = [
+    {
+      q: "Who is a candidate for sedation?",
+      a: "If you have anxiety or fear about going to the dentist you are a candidate for sedation dentistry. If you have a fear of pain, have had a traumatic dental experience in the past, or the sounds and smells of a dental office make you nauseous, sedation dentistry can help you get over your anxiety. Some people have physical reasons, like a bad gag reflex or very sensitive teeth, which make them a candidate for sedation dentistry as well."
+    },
+    {
+      q: "Will I be unconscious?",
+      a: "No, but you will be in a deep state of relaxation during your treatment. You will still be able to breathe on your own and communicate, but you will not feel any pain or anxiety. You may not even remember the procedure afterwards."
+    },
+    {
+      q: "How long will I be sedated?",
+      a: "Sedation can last from about 2-6 hours depending on the strength of sedative you are given and how long your procedure takes."
+    },
+    {
+      q: "Will I be monitored?",
+      a: "Yes, at all times during your sedation someone will be with you. We also monitor your vitals to make sure they remain at a normal level. Safety is of the utmost importance to us."
+    },
+    {
+      q: "Are there any long term effects of sedation?",
+      a: "No. You will feel a little groggy and \"out of it\" after some forms of sedation, but after a few hours you will feel like yourself again. You will need to have someone drive you home from your appointment in these cases."
+    },
+    {
+      q: "What procedures can be performed under sedation?",
+      a: "Just about any procedure can be performed with sedation. The sedation is not for the procedure itself, but for the anxiety that accompanies the procedure. Ask your dentist if sedation is available for a particular procedure."
+    },
+    {
+      q: "How many appointments will I need to complete my dental work?",
+      a: "In most cases it only takes two appointments. The first appointment will be a consultation to check your health history and make sure you are a candidate for sedation. The next appointment will be to perform the necessary procedures."
+    },
+    {
+      q: "Will my insurance cover sedation?",
+      a: "In most cases it will not be covered by your insurance provider. We will review your insurance coverage and let you know if it is covered or not. If it is not covered, we will let you know the cost and, if necessary, we can put together a financing plan for you."
+    }
+  ];

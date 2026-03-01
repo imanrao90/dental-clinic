@@ -6,6 +6,11 @@ import ContactSection from "../components/payment/ContactSection";
 import WhyChooseUs from "../components/payment/WhyChooseUs";
 import MembershipPlans from "../components/payment/MembershipPlans";
 
+export const metadata = {
+  title: "Payment & Insurance Options | Dental Clinics of Texas",
+  description: "Get to know our experienced pediatric dentists and staff in West Houston, Cypress, and Katy.",
+};
+
 export default function PaymentOptionsPage() {
   return (
     <div className="bg-white">

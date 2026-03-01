@@ -14,7 +14,7 @@ export default function HomeMeetTheTeam () {
             </div>
             <div className="order-1 md:order-2">
               <img 
-                src="https://picsum.photos/seed/team-photo/800/600" 
+                src="/dental-team2.jpg" 
                 alt="Pediatric Dentists Team" 
                 className="rounded-[3rem] shadow-xl"
                 referrerPolicy="no-referrer"

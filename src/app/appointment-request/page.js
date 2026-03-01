@@ -1,3 +1,8 @@
+export const metadata = {
+  title: "Request a Pediatric Dental Appointment | Dental Clinics of Texas",
+  description: "Get to know our experienced pediatric dentists and staff in West Houston, Cypress, and Katy.",
+};
+
 export default function AppointmentRequestPage () {
   return (
   <div className="bg-white">

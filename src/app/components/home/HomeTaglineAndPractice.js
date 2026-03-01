@@ -9,7 +9,7 @@ export default function HomeTaglineAndPractice () {
           </div>
           <div className="rounded-[3rem] overflow-hidden shadow-2xl border-8 border-white">
             <img 
-              src="https://picsum.photos/seed/practice-building/1600/800" 
+              src="/dental-team3.jpg" 
               alt="Practice Building" 
               className="w-full h-auto object-cover"
               referrerPolicy="no-referrer"

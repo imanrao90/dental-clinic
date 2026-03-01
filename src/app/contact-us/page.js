@@ -1,11 +1,11 @@
-"use client"
-
-import { motion } from "framer-motion"
-import { Mail, MapPin, Phone } from "lucide-react"
-import Link from "next/link"
 import ContactHero from "../components/contact/ContactHero"
 import ContactInfo from "../components/contact/ContactInfo"
 import ContactForm from "../components/contact/ContactForm"
+
+export const metadata = {
+  title: "Contact Our Pediatric Dental Office | Dental Clinics of Texas",
+  description: "Get to know our experienced pediatric dentists and staff in West Houston, Cypress, and Katy.",
+};
 
 export default function ContactUsPage () {
   return(

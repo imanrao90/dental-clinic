@@ -10,7 +10,7 @@ const HeroSection = ({ title, subtitle, intro, imageSeed }) => (
   <section className="relative py-20 bg-slate-900 text-white overflow-hidden">
     <div className="absolute inset-0 opacity-20">
       <img
-        src={`https://picsum.photos/seed/${imageSeed}/1920/1080`}
+        src="/page-header-img.jpg"
         alt={title}
         className="w-full h-full object-cover"
         referrerPolicy="no-referrer"

@@ -16,7 +16,7 @@ export default function BlogHero({ blog }) {
 
       <div className="max-w-4xl mx-auto px-4 relative z-10 w-full">
         <Link
-          href="/blog"
+          href="/blog-posts"
           className="inline-flex items-center gap-2 text-brand-primary font-bold mb-6 hover:-translate-x-2 transition-transform"
         >
           <ArrowRight size={18} className="rotate-180" />

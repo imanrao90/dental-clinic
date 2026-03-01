@@ -1,3 +1,8 @@
+export const metadata = {
+  title: "Privacy Policy | Dental Clinics of Texas",
+  description: "Get to know our experienced pediatric dentists and staff in West Houston, Cypress, and Katy.",
+};
+
 export default function PrivacyPolicyPage() {
     return (
   <div className="bg-white">

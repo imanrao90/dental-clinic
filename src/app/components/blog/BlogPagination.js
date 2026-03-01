@@ -1,12 +1,16 @@
 "use client";
 
+import { BLOG_POSTS } from "@/app/data/blogPosts";
 import { ChevronDown } from "lucide-react";
+import { useState } from "react";
 
-export default function BlogPagination({
-  currentPage,
-  totalPages,
-  setCurrentPage,
-}) {
+export default function BlogPagination() {
+  const [currentPage, setCurrentPage] = useState(1);
+  const blogsPerPage = 11;
+  const totalPages = Math.ceil(
+      BLOG_POSTS.length / blogsPerPage
+    );
+
   return (
     <div className="flex justify-center items-center gap-2">
       <button

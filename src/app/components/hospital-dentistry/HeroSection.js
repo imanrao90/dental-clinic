@@ -7,7 +7,7 @@ export default function HeroSection() {
     <section className="relative py-24 bg-slate-900 text-white overflow-hidden">
       <div className="absolute inset-0 opacity-20">
         <img
-          src="https://picsum.photos/seed/hospital/1920/1080"
+          src="/page-header-img.jpg"
           alt="Hospital Setting"
           className="w-full h-full object-cover"
         />

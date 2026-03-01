@@ -1,5 +1,10 @@
 import { ShieldCheck, X } from "lucide-react";
 
+export const metadata = {
+  title: "Messaging Consent & Communication Policy | Dental Clinics of Texas",
+  description: "Get to know our experienced pediatric dentists and staff in West Houston, Cypress, and Katy.",
+};
+
 export default function MessagingConsentPage() {
     return (
   <div className="bg-white">

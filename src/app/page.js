@@ -9,9 +9,8 @@ import HomeCTASection from "./components/home/HomeCTASection";
 import HomeEmailSection from "./components/home/HomeEmailSection";
 
 export const metadata = {
-title: "Best Pediatric Dentist in Texas | Dental Clinif of Texas",
-description:
-  "Trusted pediatric dental clinic in Karachi offering implants, root canal, and hygiene treatments.",
+  title: "Best Pediatric Dentist in Texas | Dental Clinif of Texas",
+  description: "Trusted pediatric dental clinic in Karachi offering implants, root canal, and hygiene treatments.",
 };
 
 const HomePage = () => {
