@@ -2,28 +2,28 @@ export const homeSlides = [
     {
       title: "Healthy Teeth for a Lifetime",
       subtitle: "Annual checkups keep teeth happy and healthy. Schedule yours today!",
-      image: "https://picsum.photos/seed/dental-hero-1/1920/1080",
+      image: "/banner1.jpg",
       cta: "Request appointment",
       path: "/appointment-request"
     },
     {
       title: "Gentle Care for Little Smiles",
       subtitle: "Our board-certified pediatric dentists specialize in child-focused care.",
-      image: "https://picsum.photos/seed/dental-hero-2/1920/1080",
+      image: "/banner2.jpg",
       cta: "Meet Our Team",
       path: "/our-dental-team"
     },
     {
       title: "Advanced Pediatric Dentistry",
       subtitle: "Modern technology combined with a compassionate, stress-free approach.",
-      image: "https://picsum.photos/seed/dental-hero-3/1920/1080",
+      image: "/banner3.jpg",
       cta: "Our Services",
       path: "/services/pediatric"
     },
     {
       title: "Emergency Dental Care",
       subtitle: "We're here when you need us most. Compassionate and quick care for emergencies.",
-      image: "https://picsum.photos/seed/dental-hero-4/1920/1080",
+      image: "/banner4.jpg",
       cta: "Learn More",
       path: "/services/emergency"
     }

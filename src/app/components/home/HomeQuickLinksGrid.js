@@ -1,3 +1,5 @@
+"use client";
+
 import Link from "next/link";
 import { homeQuickLinks } from "../../data/mockData";
 import {motion} from 'framer-motion'
