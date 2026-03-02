@@ -22,9 +22,9 @@ export const TopBar = () => (
       <div className="flex gap-4 items-center">
         <div className="hidden md:flex gap-4 items-center">
           <span className="text-white/60 mr-2">Follow Us:</span>
-          <a href="#"><Facebook size={16} /></a>
-          <a href="#"><Instagram size={16} /></a>
-          <a href="#"><Twitter size={16} /></a>
+          <Link href="https://www.facebook.com/DentalClinicsofTX"><Facebook size={16} /></Link>
+          <Link href="https://www.instagram.com/dentalclinicsoftexas"><Instagram size={16} /></Link>
+          <Link href="https://x.com/DentalClinicsTX"><Twitter size={16} /></Link>
         </div>
         <Link href="/appointment-request" className="lg:hidden bg-blue-400 text-white px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider">
           Book Now
